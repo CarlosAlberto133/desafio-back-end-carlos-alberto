@@ -16,6 +16,10 @@ ao criar execute o seguinte sql:
   atualizadoEm TIMESTAMP DEFAULT CURRENT_TIMESTAMP ON UPDATE CURRENT_TIMESTAMP
 );`
 
+## Vídeo mostrando funcionamento do projeto
+
+https://www.youtube.com/watch?v=Ed35hgsbZO0
+
 ## Iniciando a aplicação
 
 ### `npm run dev`
